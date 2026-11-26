@@ -1,0 +1,124 @@
+{
+  "project": {
+    "title": "Ethiopia: A Living Heritage",
+    "title_am": "ኢትዮጵያ፦ ሕያው ቅርስ",
+    "format": "documentary",
+    "language": "Amharic",
+    "subtitle_language": "English",
+    "narrator_voice": "male",
+    "target_duration_seconds": 64,
+    "aspect_ratios": [
+      "9:16",
+      "16:9"
+    ],
+    "visual_style": "Realistic documentary cinematography, natural light, authentic Ethiopian settings and cultural details, respectful representation, warm natural colors, observational camera, no fantasy elements, no invented historical claims.",
+    "audience": "General audience interested in Ethiopian culture and heritage",
+    "purpose": "Introduce selected elements of Ethiopian cultural life and heritage, including coffee ceremony, food, clothing, music and dance, community, and historical heritage."
+  },
+  "global_audio": {
+    "narration_style": "Male Amharic voice; warm, clear, calm documentary delivery; moderate pace",
+    "music_prompt": "Original instrumental documentary score inspired by Ethiopian musical textures; warm and reflective, gentle traditional string and percussion colors, no vocals, respectful and understated, leaving space for narration.",
+    "mixing_note": "Keep narration clearly audible; lower (duck) music under narration."
+  },
+  "shots": [
+    {
+      "id": "scene_01",
+      "order": 1,
+      "title": "Introduction - The Land",
+      "duration_seconds": 8,
+      "image_prompt": "Wide documentary view of the Ethiopian highlands at sunrise, layered green mountains and valleys, a small rural settlement in the distance, natural morning mist, realistic photography, calm composition, no text, no flags.",
+      "motion_prompt": "Slow, steady aerial-style forward movement over the landscape; gentle motion only.",
+      "narration_am": "ኢትዮጵያ፣ የጥንታዊ ታሪክና የበለጸገ ባህል ምድር ናት።",
+      "subtitle_en": "Ethiopia is a land of ancient history and rich cultural traditions.",
+      "music_cue": "Begin a soft instrumental theme; keep it quiet beneath the narration."
+    },
+    {
+      "id": "scene_02",
+      "order": 2,
+      "title": "Coffee Ceremony",
+      "duration_seconds": 8,
+      "image_prompt": "Respectful documentary photograph of an Ethiopian coffee ceremony: a woman carefully preparing coffee with a traditional jebena, small cups arranged on a tray, incense and a welcoming home setting, natural window light, authentic details, realistic photography, no text.",
+      "motion_prompt": "Gentle close-up movement as coffee is poured slowly into small cups; stable camera.",
+      "narration_am": "ቡና በኢትዮጵያ የመጠጥ ብቻ ሳይሆን የመሰባሰብና የወዳጅነት ምልክት ነው።",
+      "subtitle_en": "In Ethiopia, coffee is more than a drink; it is a symbol of gathering and friendship.",
+      "music_cue": "Continue the soft theme; add a subtle rhythmic texture."
+    },
+    {
+      "id": "scene_03",
+      "order": 3,
+      "title": "Traditional Food",
+      "duration_seconds": 8,
+      "image_prompt": "Documentary close-up of a traditional Ethiopian meal served on a large round injera with several colorful stews, people sharing the meal around a table, natural light, realistic food photography, culturally respectful, no text.",
+      "motion_prompt": "Slow camera move across the shared meal, ending on hands sharing food; avoid exaggerated movement.",
+      "narration_am": "ባህላዊ ምግቦቻችን የአብሮነትንና የመካፈልን መንፈስ ያሳያሉ።",
+      "subtitle_en": "Traditional food reflects the spirit of togetherness and sharing.",
+      "music_cue": "Maintain a gentle, warm instrumental bed."
+    },
+    {
+      "id": "scene_04",
+      "order": 4,
+      "title": "Traditional Clothing",
+      "duration_seconds": 8,
+      "image_prompt": "Documentary portrait of Ethiopian adults wearing traditional Habesha clothing, including white cotton garments with tasteful woven patterns, standing in a natural village or community setting, realistic fabric detail, respectful representation, natural light, no text.",
+      "motion_prompt": "Gentle lateral camera movement showing the woven fabric details and people standing naturally.",
+      "narration_am": "ባህላዊ ልብሶቻችን የማንነታችንን ውበትና ታሪክ ይገልጻሉ።",
+      "subtitle_en": "Traditional clothing expresses identity, craftsmanship, and heritage.",
+      "music_cue": "Add a light melodic phrase while keeping the voice in front."
+    },
+    {
+      "id": "scene_05",
+      "order": 5,
+      "title": "Music and Dance",
+      "duration_seconds": 8,
+      "image_prompt": "Authentic Ethiopian cultural gathering with performers doing a traditional eskista dance, musicians nearby, colorful but realistic community celebration, documentary photography, natural expressions, no stage fantasy, no text.",
+      "motion_prompt": "Show a short, gentle sequence of shoulder movement and musicians playing; keep faces and bodies consistent.",
+      "narration_am": "በሙዚቃችንና በዳንሳችን ደስታችንንና ባህላችንን እናከብራለን።",
+      "subtitle_en": "Through music and dance, communities celebrate joy and cultural expression.",
+      "music_cue": "Let the instrumental rhythm become slightly more lively, without overpowering narration."
+    },
+    {
+      "id": "scene_06",
+      "order": 6,
+      "title": "Community and Hospitality",
+      "duration_seconds": 8,
+      "image_prompt": "Documentary scene of an Ethiopian community welcoming guests and talking together in a village courtyard, people of different ages, warm everyday interaction, natural light, realistic clothing and setting, respectful and unposed feeling, no text.",
+      "motion_prompt": "Slow observational camera pan across people greeting and conversing; natural gestures.",
+      "narration_am": "እንግዳ መቀበል፣ መከባበርና አንድነት በብዙ ማኅበረሰቦቻችን ዘንድ የሚከበሩ እሴቶች ናቸው።",
+      "subtitle_en": "Hospitality, respect, and unity are valued in many Ethiopian communities.",
+      "music_cue": "Return to the warmer, softer theme."
+    },
+    {
+      "id": "scene_07",
+      "order": 7,
+      "title": "Historical Heritage",
+      "duration_seconds": 8,
+      "image_prompt": "Respectful documentary view of the rock-hewn churches of Lalibela, Ethiopia, showing the historic stone architecture and surrounding landscape in clear daylight, realistic documentary photography, no invented decorations, no text.",
+      "motion_prompt": "Slow, stable camera approach that reveals the stone architecture; no dramatic fast movement.",
+      "narration_am": "ታሪካዊ ቅርሶቻችን ያለፈውን ታሪክ ለዛሬና ለነገ ያስተላልፋሉ።",
+      "subtitle_en": "Our historic heritage connects the past with the present and the future.",
+      "music_cue": "Build gently toward the closing section."
+    },
+    {
+      "id": "scene_08",
+      "order": 8,
+      "title": "Conclusion - Living Heritage",
+      "duration_seconds": 8,
+      "image_prompt": "Cinematic documentary sunset over an Ethiopian highland landscape, warm natural light over hills and a distant village, peaceful and hopeful atmosphere, realistic photography, clean space for an end card, no text or logos.",
+      "motion_prompt": "Slow pull-back or gentle upward camera movement; finish on a steady wide frame.",
+      "narration_am": "ኢትዮጵያ ባህሏ ሕያው፣ ታሪኳ የሚኮራበት ውብ ሀገር ናት።",
+      "subtitle_en": "Ethiopia is a country with a living culture and a history to be proud of.",
+      "music_cue": "Resolve the instrumental theme and fade out smoothly."
+    }
+  ],
+  "end_card": {
+    "duration_seconds": 3,
+    "text": "Created with AI | Ethiopia: A Living Heritage",
+    "note": "Clearly label the film as AI-generated; do not remove provenance marks or watermarks."
+  },
+  "production_notes": {
+    "consistency": "Use a consistent documentary visual style across all scenes.",
+    "regeneration": "Regenerate only the shot whose storyboard content has changed.",
+    "ethics": "Obtain recorded informed consent before using a real person's likeness or voice. Avoid private family information in public AI services.",
+    "review": "Ask at least three intended viewers to review an early narration-only cut and a near-final cut; record their feedback and resulting changes."
+  }
+}
